@@ -1,0 +1,10 @@
+.tutorials {
+    background-color: #687864;
+    color: #5085a5;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tutorials ul li {
+    text-decoration: none;
+}
